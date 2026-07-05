@@ -27,7 +27,6 @@ Collection of all component repositories for the **AGL (Automotive Grade Linux) 
 | Backend (gRPC gateway) | [backend.agl-store.cyou](https://backend.agl-store.cyou) |
 | PENSHub Flatpak Repo | [repo.agl-store.cyou](https://repo.agl-store.cyou) |
 | Flat-Manager Hub | [hub.agl-store.cyou](https://hub.agl-store.cyou) |
-| Flatpak Server | [flatpak.agl-store.cyou](https://flatpak.agl-store.cyou) |
 | Webhook Receiver | [webhook.agl-store.cyou](https://webhook.agl-store.cyou) |
 
 ## Architecture Overview
